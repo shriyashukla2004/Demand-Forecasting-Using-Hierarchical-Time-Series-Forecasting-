@@ -2,7 +2,7 @@
 
 **📌 Overview**
 
-This project implements hierarchical time series forecasting on Walmart’s M5 competition dataset, focusing on 28-day ahead demand prediction across multiple aggregation levels (item, store, state, and total). The goal is to enhance demand planning accuracy using advanced statistical and machine learning models with forecast reconciliation techniques.
+This project implements hierarchical time series forecasting on Walmart’s M5 competition dataset, focusing on yearly demand prediction across multiple aggregation levels (item, store, state, and total). The goal is to enhance demand planning accuracy using advanced statistical and machine learning models with forecast reconciliation techniques.
 
 **⚙️ Features**
 
@@ -18,11 +18,9 @@ This project implements hierarchical time series forecasting on Walmart’s M5 c
 
 **📊 Key Results**
 
-- Generated 28-day ahead forecasts for all hierarchy levels.
+- Generated yearly forecasts for all hierarchy levels for 2013 & 2014.
 
 - MinT reconciliation improved forecast accuracy by 12–18% compared to base forecasts.
-
-- Large outlets showed stronger forecast stability, while smaller outlets had higher variance.
 
 - Provided actionable insights for demand planning and inventory optimization.
 
